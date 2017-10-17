@@ -1,0 +1,34 @@
+{
+    "application": {
+        "id": "",
+        "title": "nw.epm.refapps.ext.prod.manage.manageproducts",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/",
+        "appUrl": "#manageproducts-Display",
+        "navigationComponentName": "nw.epm.refapps.ext.prod.manage",
+        "intentSemanticObject": "manageproducts",
+        "intentAction": "Display",
+        "html5ApplicationName": "manageproducts",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "65bd25f2-80ac-4806-811d-8d04bb3f77ee"
+        ],
+        "contentPackages": [
+            "662dd103-48ff-4881-af0d-c765a1708850"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "Manage Products",
+        "subtitle": "Rating",
+        "searchKeywords": "Manage Products,Rating",
+        "displayIconUrl": "sap-icon://approvals",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}

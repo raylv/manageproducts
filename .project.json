@@ -15,6 +15,12 @@
     "sap.watt.uitools.ide.fiori"
   ],
   "build": {
-    "buildRequired": true
+    "buildRequired": true,
+    "lastBuildDateTime": "Tue, 17 Oct 2017 09:06:29 GMT"
+  },
+  "hcpdeploy": {
+    "account": "i300934trial",
+    "name": "manageproducts",
+    "lastVersionWeTriedToDeploy": "1.0.0"
   }
 }
