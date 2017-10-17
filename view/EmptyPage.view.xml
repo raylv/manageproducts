@@ -1,0 +1,8 @@
+<!--
+
+    Copyright (C) 2009-2016 SAP SE or an SAP affiliate company. All rights reserved.
+
+-->
+<mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" height="100%" controllerName="nw.epm.refapps.ext.prod.manage.controller.EmptyPage">
+    <MessagePage id="messagePage" showNavButton="{device>/system/phone}" navButtonPress="onNavButtonPress" text="{appProperties>/emptyText}" description=""/>
+</mvc:View>

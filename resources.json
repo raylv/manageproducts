@@ -1,0 +1,242 @@
+{
+	"resources":[
+		{
+			"name": ".Ui5RepositoryIgnore"
+		},
+		{
+			"name": "Component-dbg.js",
+			"isDebug":true
+		},
+		{
+			"name": "Component-preload-dbg.js",
+			"isDebug":true
+		},
+		{
+			"name": "Component-preload.js",
+			"merged":true
+		},
+		{
+			"name": "Component.js"
+		},
+		{
+			"name": "control/RatingAndCount-dbg.js",
+			"isDebug":true
+		},
+		{
+			"name": "control/RatingAndCount.js"
+		},
+		{
+			"name": "controller/App-dbg.controller.js",
+			"isDebug":true
+		},
+		{
+			"name": "controller/App.controller.js"
+		},
+		{
+			"name": "controller/Application-dbg.js",
+			"isDebug":true
+		},
+		{
+			"name": "controller/Application.js"
+		},
+		{
+			"name": "controller/EmptyPage-dbg.controller.js",
+			"isDebug":true
+		},
+		{
+			"name": "controller/EmptyPage.controller.js"
+		},
+		{
+			"name": "controller/NavigationManager-dbg.js",
+			"isDebug":true
+		},
+		{
+			"name": "controller/NavigationManager.js"
+		},
+		{
+			"name": "controller/ProductDisplay-dbg.controller.js",
+			"isDebug":true
+		},
+		{
+			"name": "controller/ProductDisplay.controller.js"
+		},
+		{
+			"name": "controller/ProductDraftUploadImages-dbg.controller.js",
+			"isDebug":true
+		},
+		{
+			"name": "controller/ProductDraftUploadImages.controller.js"
+		},
+		{
+			"name": "controller/ProductEdit-dbg.controller.js",
+			"isDebug":true
+		},
+		{
+			"name": "controller/ProductEdit.controller.js"
+		},
+		{
+			"name": "controller/S2_ProductMaster-dbg.controller.js",
+			"isDebug":true
+		},
+		{
+			"name": "controller/S2_ProductMaster.controller.js"
+		},
+		{
+			"name": "controller/S3_ProductDetail-dbg.controller.js",
+			"isDebug":true
+		},
+		{
+			"name": "controller/S3_ProductDetail.controller.js"
+		},
+		{
+			"name": "controller/SubControllerForFGS-dbg.js",
+			"isDebug":true
+		},
+		{
+			"name": "controller/SubControllerForFGS.js"
+		},
+		{
+			"name": "controller/SubControllerForShare-dbg.js",
+			"isDebug":true
+		},
+		{
+			"name": "controller/SubControllerForShare.js"
+		},
+		{
+			"name": "controller/TableOperations-dbg.js",
+			"isDebug":true
+		},
+		{
+			"name": "controller/TableOperations.js"
+		},
+		{
+			"name": "controller/messages-dbg.js",
+			"isDebug":true
+		},
+		{
+			"name": "controller/messages.js"
+		},
+		{
+			"name": "controller/utilities-dbg.js",
+			"isDebug":true
+		},
+		{
+			"name": "controller/utilities.js"
+		},
+		{
+			"name": "css/manageProductStyle-dbg.css",
+			"isDebug":true
+		},
+		{
+			"name": "css/manageProductStyle.css"
+		},
+		{
+			"name": "i18n/i18n.properties",
+			"raw":"i18n/i18n.properties",
+			"locale":""
+		},
+		{
+			"name": "i18n/i18n_en.properties",
+			"raw":"i18n/i18n.properties",
+			"locale":"en"
+		},
+		{
+			"name": "i18n/i18n_en_US_sappsd.properties",
+			"raw":"i18n/i18n.properties",
+			"locale":"en_US_sappsd"
+		},
+		{
+			"name": "i18n/i18n_en_US_saptrc.properties",
+			"raw":"i18n/i18n.properties",
+			"locale":"en_US_saptrc"
+		},
+		{
+			"name": "icon/F0865_Manage_Products.ico"
+		},
+		{
+			"name": "icon/launchicon/114_iPhone-Retina_Web_Clip.png"
+		},
+		{
+			"name": "icon/launchicon/144_iPad_Retina_Web_Clip.png"
+		},
+		{
+			"name": "icon/launchicon/57_iPhone_Desktop_Launch.png"
+		},
+		{
+			"name": "icon/launchicon/72_iPad_Desktop_Launch.png"
+		},
+		{
+			"name": "localService/metadata.xml"
+		},
+		{
+			"name": "model/Products-dbg.js",
+			"isDebug":true
+		},
+		{
+			"name": "model/Products.js"
+		},
+		{
+			"name": "model/RemoveService-dbg.js",
+			"isDebug":true
+		},
+		{
+			"name": "model/RemoveService.js"
+		},
+		{
+			"name": "model/formatter-dbg.js",
+			"isDebug":true
+		},
+		{
+			"name": "model/formatter.js"
+		},
+		{
+			"name": "model/models-dbg.js",
+			"isDebug":true
+		},
+		{
+			"name": "model/models.js"
+		},
+		{
+			"name": "version.json"
+		},
+		{
+			"name": "view/App.view.xml"
+		},
+		{
+			"name": "view/EmptyPage.view.xml"
+		},
+		{
+			"name": "view/LostDraftDialog.fragment.xml"
+		},
+		{
+			"name": "view/ProductDisplay.view.xml"
+		},
+		{
+			"name": "view/ProductDraftUploadImages.view.xml"
+		},
+		{
+			"name": "view/ProductEdit.view.xml"
+		},
+		{
+			"name": "view/ProductFilterDialog.fragment.xml"
+		},
+		{
+			"name": "view/ProductGroupingDialog.fragment.xml"
+		},
+		{
+			"name": "view/ProductSortDialog.fragment.xml"
+		},
+		{
+			"name": "view/S2_ProductMaster.view.xml"
+		},
+		{
+			"name": "view/S3_ProductDetail.view.xml"
+		},
+		{
+			"name": "view/ShareSheet.fragment.xml"
+		},
+		{
+			"name": "view/SupplierCard.fragment.xml"
+		}
+	]
+}
