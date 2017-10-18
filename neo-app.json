@@ -2,11 +2,11 @@
   "welcomeFile": "index.html",
   "routes": [
     {
-      "path": "/sap/opu/odata",
+      "path": "/sap",
       "target": {
         "type": "destination",
         "name": "s4h-onpremise-http",
-        "entryPath": "/sap/opu/odata"
+        "entryPath": "/sap"
       },
       "description": "S/4HANA HTTP API"
     },
